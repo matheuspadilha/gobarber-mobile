@@ -1,0 +1,7 @@
+#Fri Jul 31 23:57:23 BRT 2020
+base.0=C\:\\Users\\Mathe\\MVPadilha\\Courses\\go-stack\\appgobarber\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Mathe\\MVPadilha\\Courses\\go-stack\\appgobarber\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
